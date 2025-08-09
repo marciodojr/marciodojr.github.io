@@ -3,16 +3,42 @@ project:
 
 website:
   title: "Aprendi Hoje"
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+  #   contents:
+  #     - text: "Introduction"
+  #       href: introduction.qmd
+  #     - section: "Basics"
+  #       href: basics-summary.qmd
+  #       contents:
+  #         - index.qmd
+  #         - basics-knitr.qmd
+  #         - basics-jupyter.qmd
+  #     - section: "Layout"
+  #       contents:
+  #         - layout.qmd
+  #         - layout-knitr.qmd
+  #         - layout-jupyter.qmd
+  #     - section: advanced.qmd
+  #       contents:
+  #         - raw-code.qmd
+  #         - custom-theme.qmd
+  #     - acknowledgment.qmd
   navbar:
-    left:
-      - href: index.qmd
-        text: Início
+    right:
       - about.qmd
-
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
+
+
+
