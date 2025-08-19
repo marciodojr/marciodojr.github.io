@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/python-basics/publicando_pacotes_no_pypi.html",
       "/posts/python-basics/python_estruturas_dados_tutorial.html"
     ]
   }

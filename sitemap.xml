@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://aprendihoje.com.br/index.html</loc>
-    <lastmod>2025-08-09T23:23:48.543Z</lastmod>
+    <lastmod>2025-08-19T23:34:52.589Z</lastmod>
   </url>
   <url>
     <loc>https://aprendihoje.com.br/posts/python-basics/python_estruturas_dados_tutorial.html</loc>
-    <lastmod>2025-08-09T23:23:48.543Z</lastmod>
+    <lastmod>2025-08-19T23:34:52.589Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aprendihoje.com.br/posts/python-basics/publicando_pacotes_no_pypi.html</loc>
+    <lastmod>2025-08-19T23:34:52.589Z</lastmod>
   </url>
   <url>
     <loc>https://aprendihoje.com.br/about.html</loc>
-    <lastmod>2025-08-09T23:23:48.543Z</lastmod>
+    <lastmod>2025-08-19T23:34:52.589Z</lastmod>
   </url>
 </urlset>
